@@ -2,7 +2,7 @@
 
 # Host a Website on Amazon S3
 
-**Project Link:** [View Project](PASTE-NEXTWORK-PROJECT-LINK-HERE)
+**Project Link:** [View Project](https://nextwork.ai/projects/70e2d059-31ab-5f67-8c58-f5edbd451140?track=high)
 
 **Author:** Maria Jasmin Ahorro
 
@@ -24,7 +24,7 @@ Key concepts I learnt include buckets and objects, AWS Regions, globally unique 
 
 ### Challenges and wins
 
-This project took me approximately XX minutes to complete. The most challenging part was working out why my website showed a **403 Forbidden** error at first. The files were uploaded, but they weren't public yet. It was rewarding to fix the permissions and see the website load live from S3.
+This project took me approximately 45 minutes to complete. The most challenging part was working out why my website showed a **403 Forbidden** error at first. The files were uploaded, but they weren't public yet. It was rewarding to fix the permissions and see the website load live from S3.
 
 ## How I Set Up an S3 Bucket
 
@@ -69,4 +69,4 @@ To resolve the 403 error, I selected all the objects in my bucket and used **Act
 
 ---
 
-*Built with [NextWork](https://nextwork.ai) - [View this project](PASTE-NEXTWORK-PROJECT-LINK-HERE)*
+*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/70e2d059-31ab-5f67-8c58-f5edbd451140?track=high)*
